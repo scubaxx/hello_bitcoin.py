@@ -8,3 +8,4 @@ This program demonstrates the creation of
 Python 3.6.2
 
 Run pip install bitcoin
+#run to install the bitcoin library
