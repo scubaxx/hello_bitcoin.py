@@ -6,3 +6,5 @@ This program demonstrates the creation of
 - and a bitcoin address.
 
 Python 3.6.2
+
+Run pip install bitcoin
